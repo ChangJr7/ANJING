@@ -22,7 +22,7 @@
 - `rm -rf FILEPRO`
 - `git clone https://github.com/YusepXD/crackfb`
 - `cd FILEPRO`
-- `python yusep.py`
+- `python son.py`
      
 
  ```This Tools is Free Enjoy ```</br>
