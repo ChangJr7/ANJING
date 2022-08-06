@@ -20,7 +20,7 @@
 - `pip install mechanize`
 - `pip install bs4`
 - `rm -rf FILEPRO`
-- `git clone https://github.com/YusepXD/crackfb`
+- `git clone https://github.com/Yusep-XD/crackfb`
 - `cd FILEPRO`
 - `python son.py`
      
