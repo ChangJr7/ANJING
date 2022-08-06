@@ -9,7 +9,7 @@
 
 ## <b>installation</b>
 
-🔰 _CLONE FULL OK IDZ_
+🔰 _PUBLIC FULL OK IDZ_
 
 
 - `pkg update`
